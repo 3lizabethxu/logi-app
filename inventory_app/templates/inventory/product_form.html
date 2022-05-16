@@ -1,0 +1,14 @@
+{% extends 'Inventory/main.html' %}
+
+{% block content %}
+<br>
+<h1>Create an Inventory Item </h1>
+<br>
+<form action="" method = "POST">
+    {% csrf_token %}
+    {{form}}
+    <input type="submit" name="submit">
+</form>
+<br>
+
+{% endblock %}
