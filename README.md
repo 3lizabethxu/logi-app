@@ -4,7 +4,6 @@ Here is the link to the deployed webpage: https://2022shopifybackendtechchalleng
 
 # Overview
 This project was built using Django with SQLite as the back-end framework and Bootstrap as front-end.
-Django was chosen because its rapid development.
 
 # Products Page (Default Landing Page)
 The products page allows users to create,edit,delete and view a list of inventory items. 
