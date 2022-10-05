@@ -1,4 +1,4 @@
-# 2022_shopify_backend_tech_challenge
+# Django CRUD Inventory Management Application
 
 Here is the link to the deployed webpage: https://2022shopifybackendtechchallenge.lizxu.repl.co
 
