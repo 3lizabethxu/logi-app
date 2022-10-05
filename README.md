@@ -1,7 +1,5 @@
 # Django CRUD Inventory Management Application
 
-Here is the link to the deployed webpage: https://2022shopifybackendtechchallenge.lizxu.repl.co
-
 # Overview
 This project uses Django and SQLite as the back-end and Bootstrap as front-end.
 Django helps the security of the system. SQLite is great for lower traffic sites but will struggle if scaled.
